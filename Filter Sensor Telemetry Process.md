@@ -13,7 +13,7 @@
         "sensorData" : {
         "UnixTS" : 1.62577955E9,
         "Temperature" :  35.50,
-        "Pressure" : 123.45 ,
+        "Pressure" : 123.45
         }
     }]
 }
